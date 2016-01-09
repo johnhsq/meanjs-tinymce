@@ -18,7 +18,9 @@ module.exports = {
         'public/lib/angular-file-upload/angular-file-upload.js',
         'public/lib/owasp-password-strength-test/owasp-password-strength-test.js',
         'public/lib/ng-file-upload/ng-file-upload-shim.js',
-        'public/lib/ng-file-upload/ng-file-upload.js'
+        'public/lib/ng-file-upload/ng-file-upload.js',
+        'public/lib/tinymce-dist/tinymce.js',
+        'public/lib/angular-ui-tinymce/src/tinymce.js'
       ],
       tests: ['public/lib/angular-mocks/angular-mocks.js']
     },
