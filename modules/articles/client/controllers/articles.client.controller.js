@@ -127,7 +127,6 @@ angular.module('articles').controller('ArticlesController', ['$scope', '$statePa
         'alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | forecolor backcolor | formatselect fontselect fontsizeselect '
       ],
       file_browser_callback: function(field_name, url, type, win) {
-
       }
     };
   }
